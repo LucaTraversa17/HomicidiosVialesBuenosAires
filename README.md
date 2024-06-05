@@ -20,7 +20,7 @@ En base a todo el análisis llevado a cabo hemos observado los siguientes datos 
 
 ### Análisis con PowerBI
 
-Luego del EDA preeliminar, hemos exportado los datasets emprolijados para poder ser analizados en más detalle con PowerBI. Esta poderosa herramienta nos permitió cruzar variables de manera más rápida, intuitiva y visual para poder sacar conclusiones un poco más profundas que las llevadas a cabo previamente. En el repositorio encontrarán el dashboard bajo el nombre Proyecto.pi 
+Luego del EDA preeliminar, hemos exportado los datasets emprolijados para poder ser analizados en más detalle con PowerBI. Esta poderosa herramienta nos permitió cruzar variables de manera más rápida, intuitiva y visual para poder sacar conclusiones un poco más profundas que las llevadas a cabo previamente. En el repositorio encontrarán el dashboard bajo el nombre Proyecto.pbix 
 
 #### Conclusiones del Dashboard:
 En base a todo el análisis llevado a cabo hemos observado la siguiente información: 
